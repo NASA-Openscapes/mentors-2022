@@ -1,4 +1,4 @@
-# GitHub practice from the browser
+# GitHub practice from the browser!
 
 Working on GitHub.com, we contribute changes through **commits**. Let's create several commits by making small edits to this file, writing a commit message, and committing changes to see them posted nicely online to communicate our work. 
 
@@ -13,6 +13,7 @@ We can make lists – *note that lists need a carriage return before list items!
 1. bananas
 2. tamales
 3. cakes
+4. strawberries
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
